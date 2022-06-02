@@ -1,5 +1,5 @@
 <h3>Olá seja bem-vindo a minha conta 😍😬👨‍💻</h3>
-<p>Sou desenvolvedor web, e amo muito o que eu faço. Quando o assunto é desensolver, eu tenho a perseverança de correr atrás e deixar tudo pronto 😁✊🏼.</p>
+<p>Sou desenvolvedor web, e amo muito o que eu faço. Quando o assunto é desenvolver, eu tenho a perseverança de correr atrás e deixar tudo pronto 😁✊🏼.</p>
 
 <div align="center">
   <a href="https://github.com/victor9743">
