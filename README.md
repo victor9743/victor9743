@@ -1,5 +1,7 @@
 <h3>Olá seja bem-vindo a minha conta 😍😬👨‍💻</h3>
 <p>Sou desenvolvedor web, e amo muito o que eu faço. Quando o assunto é desenvolver, eu tenho a perseverança de correr atrás e deixar tudo pronto 😁✊🏼.</p>
+<p>Tenho conhecimento em construir aplicações do zero(da criação, até o deploy), realizar manutenção e novas implementações em uma aplicação já existente, construir e  manipular informações de API's REST, com JSON e AJAX.</p>
+<h4>Logo abaixo, segue (de forma resumida) os meus conhecimentos</h4>
 
 <div align="center">
   <a href="https://github.com/victor9743">
