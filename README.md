@@ -40,6 +40,18 @@
   </div>
 </div>
 <div>
+  <hr>
+  <h3>Outras linguagens que utilizo</h3>
+  <h4>Linguagem de programação</h4>
+  <div>
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> C, C++, C#
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> Java
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> Python      
+  </div>
+  <h4>Banco de dados</h4>
+  <div>
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />      
+  </div>
 </div>
 
   
