@@ -20,6 +20,10 @@
   <div>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> Html
   </div>
+  <h4>Linguagem de estilização</h4>
+  <div>
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> Css
+  </div>
   <h4>Banco de dados</h4>
   <div>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> Mysql
