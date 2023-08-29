@@ -1,6 +1,6 @@
 <h3>Olá seja bem-vindo a minha conta 👨‍💻</h3>
 <p>Sou analista de sistemas e desenvolvedor web full-stack😁✊🏼.</p>
-<p>Tenho conhecimento em construir aplicações do zero(da criação, até o deploy), realizar manutenção e novas implementações em uma aplicação já existente, construir e  manipular informações de API's REST, JSON, AJAX, além de trabalhar com arquitetura MVC.</p>
+<p>Tenho conhecimento em construir aplicações do zero(da criação, até o deploy), realizar manutenção e novas implementações em uma aplicação já existente, construir e  manipular informações de API's REST, JSON, AJAX, além de trabalhar com arquiteturas MVC e SPA.</p>
 <h4>Logo abaixo, segue (de forma resumida) os meus conhecimentos</h4>
 
 <div align="center">
